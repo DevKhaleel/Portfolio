@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppings'sans-serif ;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+    color: #fff;
+}
+#header{
+    width: 100%;
+    height: 100vh;
+    background-image:url(Man.png) ;
+    background-size: cover;
+    background-position: center;
+    
+}
+.container{
+    padding: 10px 10%;
+
+}
